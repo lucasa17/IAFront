@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Species Predictor",
+  "description": "Dashboard inteligente para classificação e predição da espécie da flor Iris utilizando Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
